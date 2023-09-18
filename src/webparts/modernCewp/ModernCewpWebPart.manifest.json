@@ -20,7 +20,7 @@
     "group": { "default": "Advanced" },
     "title": { "default": "Modern CEWP by SPJS" },
     "description": { "default": "This webpart replicates the classic SharePoint Content Editor Web part and lets you link to a HTML file containing HTML / JS or insert HTML code directly into the page." },
-    "officeFabricIconFontName": "Embed",
+    "officeFabricIconFontName": "Code",
     "properties": {
       "description": "This webpart replicates the classic SharePoint Content Editor Web part and lets you link to a HTML file containing HTML / JS or insert HTML code directly into the page."
     }
